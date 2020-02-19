@@ -1,0 +1,11 @@
+.vs
+.idea
+bin
+obj
+build/
+cmake-build-*/**
+**.log
+CMakeSettings.json
+*.kdev4
+.kdev4/
+*.user
